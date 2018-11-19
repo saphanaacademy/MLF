@@ -1,0 +1,5 @@
+{
+	"dataset": "Brands",
+	"modelName": "brands",
+	"learningRate": 0.001
+}

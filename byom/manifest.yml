@@ -1,0 +1,12 @@
+---
+applications:
+- name: byom
+  host: <org>-<space>-byom
+  memory: 256M
+  disk_quota: 1028M
+  timeout: 60
+  buildpack: python_buildpack
+services:
+- <mlf_service_name>
+env:
+  MLF_SERVICE: ml-foundation-trial-beta
