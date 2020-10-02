@@ -1,5 +1,5 @@
 grpcio
-tensorflow==1.3.0
+tensorflow>=1.15.4
 tensorflow-serving-api==1.3.0
 requests
 flask
